@@ -1,4 +1,118 @@
-html {
-  height: 100%;
-  width: 100%;
+body {
+  background-color: #f8a5ae;
+}
+
+h1 {
+  text-align: center;
+  color: #e14c4cff;
+}
+
+p {
+  text-align: center;
+}
+
+.principal {
+  background-color: #f28888cc;
+  font-style: italic;
+}
+
+.lista {
+  padding: 40px;
+}
+
+h2{
+text-align: center;
+color: #a93d3d;
+}
+
+h4{
+  font-style: italic;
+  background-color: #e65151cc;;
+}
+.imagens{
+height: 400px;
+
+}
+
+.Descricao{
+  position:absolute;
+  text-align: center;
+  font-style: italic;
+  top: 65%;
+  width: 300px;
+  height: 400px;
+  left: 30%;
+  color: white;
+}
+
+.Descricao-1{
+  position:absolute;
+  text-align: center;
+  font-style: italic;
+  top: 145%;
+  width: 300px;
+  height: 400px;
+  left: 30%;
+  color: white;
+}
+.Descricao-2{
+  position:absolute;
+  text-align: center;
+  font-style: italic;
+  top: 230%;
+  width: 300px;
+  height: 400px;
+  left: 30%;
+  color: white;
+}
+
+.Descricao-3{
+  position:absolute;
+  text-align: center;
+  font-style: italic;
+  top: 325%;
+  width: 300px;
+  height: 400px;
+  left: 30%;
+  color: white;
+}
+.Descricao-4{
+  position:absolute;
+  text-align: center;
+  font-style: italic;
+  top: 400%;
+  width: 300px;
+  height: 400px;
+  left: 30%;
+  color: white;
+}
+.Descricao-5{
+  position:absolute;
+  text-align: center;
+  font-style: italic;
+  top: 485%;
+  width: 300px;
+  height: 400px;
+  left: 30%;
+  color: white;
+}
+.Descricao-6{
+  position:absolute;
+  text-align: center;
+  font-style: italic;
+  top: 565%;
+  width: 300px;
+  height: 400px;
+  left: 30%;
+  color: white;
+}
+.Descricao-7{
+  position:absolute;
+  text-align: center;
+  font-style: italic;
+  top: 645%;
+  width: 300px;
+  height: 400px;
+  left: 30%;
+  color: white;
 }
